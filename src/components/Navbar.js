@@ -13,7 +13,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-container">
-        <a href="#home" className="nav-logo">AJEBED.</a>
+        <a href="#home" className="nav-logo">DAVE.</a>
         
         <div className="nav-links">
           {navLinks.map((link) => (
